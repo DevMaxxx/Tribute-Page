@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding: 30px 8px 30px 8px;
+  font-family: 'Lato', sans-serif;
+  color: #333333;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+}
+
+.papper {
+  background-color: #e0e0e0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  padding: 15px;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h1 {
+  font-size: 2.5em;
+}
+
+.image {
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  background-color: white;
+  padding: 8px;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+}
+
+.timeline h2 {
+  font-size: 1.1em;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.timeline .episode {
+  margin-bottom: 28px;
+}
+
+.timeline .year {
+  font-weight: bold;
+}
+
+.quote {
+  margin-top: 50px;
+  margin-right: 20px;
+  font-style: italic;
+}
+
+.end {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=style.css.map */
